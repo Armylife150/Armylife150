@@ -1,3 +1,4 @@
+<img src="banner.png" width="100%" alt="Armylife150: Pentesting Protocol - Cyber-Squatch Banner">
 # 👣 Hello, I'm Armylife150 🚀
 
 ### 👾 Flipper Zero Developer | Security Researcher | Cyber-Squatch Hunter
